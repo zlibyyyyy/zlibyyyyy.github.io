@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>爱米导航(imi123.cn)</title>
+  <title>随意门导航(rymdh.com)</title>
   
   <subtitle>关于软件、chrome插件、编程、知识、Z-library、安娜的档案、科技前沿的日志</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>爱米导航</name>
+    <name>随意门导航(rymdh.com)</name>
     
   </author>
   
